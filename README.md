@@ -1,0 +1,1 @@
+# otus13_cpp_mnist
